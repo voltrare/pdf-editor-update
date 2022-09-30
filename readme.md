@@ -1,6 +1,7 @@
 # PDF Editor
 
 No install. No server. ¯\\\_(ツ)\_/¯ https://pdf-editor.now.sh
+
 ![It just works!](https://i.imgur.com/m3weLXQ.gif)
 
 ## How to use pdf-editor?
@@ -40,6 +41,12 @@ yarn start
 ## Docker setup
 
 Run `make build` to create the docker image. Run `make run` to start the container. For reference see [Makefile](./Makefile)
+
+
+## What's New?
+
+Update and added and features from these PR's [25](https://github.com/ShizukuIchi/pdf-editor/pull/25) [31](https://github.com/ShizukuIchi/pdf-editor/pull/31) [37](https://github.com/ShizukuIchi/pdf-editor/pull/37)
+
 
 ---
 
