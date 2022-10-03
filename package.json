@@ -16,7 +16,7 @@
     "autoprefixer": "^9.7.6",
     "open": "^7.0.3",
     "postcss": "^8.4.17",
-    "postcss-load-config": "^2.1.0",
+    "postcss-load-config": "^4.0.1",
     "rollup": "^2.57.0",
     "rollup-plugin-livereload": "^2.0.5",
     "rollup-plugin-svelte": "^7.1.0",
